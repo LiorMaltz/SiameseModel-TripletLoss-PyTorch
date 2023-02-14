@@ -45,6 +45,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/liorm/Documents/lior/CSdegree/semester_f/Deep_Learning/Homeworks/2/solution_part_2/318307923_205815962_homework2_b.ipynb&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -87,6 +88,10 @@
       <updated>1676196053572</updated>
       <workItem from="1676196060081" duration="29724000" />
       <workItem from="1676244203570" duration="4462000" />
+      <workItem from="1676370924499" duration="8648000" />
+      <workItem from="1676387253719" duration="2803000" />
+      <workItem from="1676390093433" duration="33000" />
+      <workItem from="1676390283920" duration="407000" />
     </task>
     <servers />
   </component>
@@ -114,18 +119,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook://C:/Users/liorm/OneDrive/Documents/GitHub/DeepLearningProject/Source/Siamese_Network.ipynb</url>
-          <line>53</line>
+          <line>52</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook://C:/Users/liorm/OneDrive/Documents/GitHub/DeepLearningProject/Source/Siamese_Network.ipynb</url>
-          <line>189</line>
+          <line>207</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook://C:/Users/liorm/OneDrive/Documents/GitHub/DeepLearningProject/Source/Siamese_Network.ipynb</url>
-          <line>134</line>
-          <option name="timeStamp" value="15" />
+          <line>206</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
