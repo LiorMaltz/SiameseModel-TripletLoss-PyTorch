@@ -128,7 +128,7 @@
       <workItem from="1676718924082" duration="4085000" />
       <workItem from="1676747369609" duration="18163000" />
       <workItem from="1676769862422" duration="4867000" />
-      <workItem from="1676800595763" duration="13450000" />
+      <workItem from="1676800595763" duration="20087000" />
     </task>
     <servers />
   </component>
@@ -156,37 +156,27 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook://C:/Users/liorm/OneDrive/Documents/GitHub/DeepLearningProject/Source/Siamese_Network.ipynb</url>
-          <line>464</line>
+          <line>479</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook://C:/Users/liorm/OneDrive/Documents/GitHub/DeepLearningProject/Source/Siamese_Network.ipynb</url>
-          <line>470</line>
+          <line>485</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook://C:/Users/liorm/OneDrive/Documents/GitHub/DeepLearningProject/Source/Siamese_Network.ipynb</url>
-          <line>467</line>
+          <line>482</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook://C:/Users/liorm/OneDrive/Documents/GitHub/DeepLearningProject/Source/Siamese_Network.ipynb</url>
-          <line>471</line>
+          <line>486</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook://C:/Users/liorm/OneDrive/Documents/GitHub/DeepLearningProject/Source/Siamese_Network.ipynb</url>
-          <line>634</line>
-          <option name="timeStamp" value="136" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook://C:/Users/liorm/OneDrive/Documents/GitHub/DeepLearningProject/Source/Siamese_Network.ipynb</url>
-          <line>648</line>
-          <option name="timeStamp" value="139" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook://C:/Users/liorm/OneDrive/Documents/GitHub/DeepLearningProject/Source/Siamese_Network.ipynb</url>
-          <line>385</line>
+          <line>400</line>
           <option name="timeStamp" value="144" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
@@ -196,28 +186,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook://C:/Users/liorm/OneDrive/Documents/GitHub/DeepLearningProject/Source/Siamese_Network.ipynb</url>
-          <line>386</line>
+          <line>401</line>
           <option name="timeStamp" value="146" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook://C:/Users/liorm/OneDrive/Documents/GitHub/DeepLearningProject/Source/Siamese_Network.ipynb</url>
-          <line>297</line>
-          <option name="timeStamp" value="148" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook://C:/Users/liorm/OneDrive/Documents/GitHub/DeepLearningProject/Source/Siamese_Network.ipynb</url>
-          <line>312</line>
-          <option name="timeStamp" value="153" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook://C:/Users/liorm/OneDrive/Documents/GitHub/DeepLearningProject/Source/Siamese_Network.ipynb</url>
-          <line>913</line>
-          <option name="timeStamp" value="154" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook://C:/Users/liorm/OneDrive/Documents/GitHub/DeepLearningProject/Source/Siamese_Network.ipynb</url>
-          <line>953</line>
-          <option name="timeStamp" value="155" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook://C:/Users/liorm/OneDrive/Documents/GitHub/DeepLearningProject/Source/Siamese_Network.ipynb</url>
@@ -226,13 +196,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook://C:/Users/liorm/OneDrive/Documents/GitHub/DeepLearningProject/Source/Siamese_Network.ipynb</url>
-          <line>924</line>
-          <option name="timeStamp" value="163" />
+          <line>92</line>
+          <option name="timeStamp" value="165" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook://C:/Users/liorm/OneDrive/Documents/GitHub/DeepLearningProject/Source/Siamese_Network.ipynb</url>
-          <line>939</line>
-          <option name="timeStamp" value="164" />
+          <line>327</line>
+          <option name="timeStamp" value="170" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
