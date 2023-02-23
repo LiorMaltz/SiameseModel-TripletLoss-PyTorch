@@ -144,7 +144,7 @@
       <workItem from="1677150585328" duration="5667000" />
       <workItem from="1677156318106" duration="7690000" />
       <workItem from="1677169648314" duration="12771000" />
-      <workItem from="1677184401110" duration="2354000" />
+      <workItem from="1677184401110" duration="3744000" />
     </task>
     <servers />
   </component>
@@ -177,7 +177,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook://C:/Users/liorm/OneDrive/Documents/GitHub/DeepLearningProject/Source/Siamese_Network.ipynb</url>
-          <line>1346</line>
+          <line>1347</line>
           <option name="timeStamp" value="253" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
