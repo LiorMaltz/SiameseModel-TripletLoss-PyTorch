@@ -156,7 +156,9 @@
       <workItem from="1677263820142" duration="695000" />
       <workItem from="1677269123378" duration="3215000" />
       <workItem from="1677272384183" duration="1805000" />
-      <workItem from="1677274216217" duration="47000" />
+      <workItem from="1677274216217" duration="4627000" />
+      <workItem from="1677278865191" duration="1664000" />
+      <workItem from="1677280547002" duration="364000" />
     </task>
     <servers />
   </component>
@@ -211,7 +213,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Siamese_Network_ipynb$main.coverage" NAME="main Coverage Results" MODIFIED="1677254687371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Siamese_Network_ipynb$main.coverage" NAME="main Coverage Results" MODIFIED="1677280226395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Siamese_Network_ipynb$d3Test.coverage" NAME="d3Test Coverage Results" MODIFIED="1677253663401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/main_py$main.coverage" NAME="main Coverage Results" MODIFIED="1676681551530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Source$main.coverage" NAME="main Coverage Results" MODIFIED="1676243526703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
