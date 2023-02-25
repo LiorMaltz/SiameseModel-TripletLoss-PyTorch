@@ -158,7 +158,8 @@
       <workItem from="1677280547002" duration="364000" />
       <workItem from="1677280921126" duration="2305000" />
       <workItem from="1677283246760" duration="3060000" />
-      <workItem from="1677320492581" duration="15057000" />
+      <workItem from="1677320492581" duration="21180000" />
+      <workItem from="1677346294231" duration="2374000" />
     </task>
     <servers />
   </component>
@@ -188,6 +189,11 @@
           <url>notebook://C:/Users/liorm/OneDrive/Documents/GitHub/DeepLearningProject/Source/triplet-loss-with-pytorch.ipynb</url>
           <line>632</line>
           <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/liorm/OneDrive/Documents/GitHub/DeepLearningProject/Source/Siamese_Network.ipynb</url>
+          <line>1133</line>
+          <option name="timeStamp" value="307" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
